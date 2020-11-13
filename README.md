@@ -20,4 +20,6 @@ Reverse words in a given string (WIP)
 Parenthesis Checker (WIP)
 
 ### Backtracking
+Permutations (WIP)
+Permutations_II (WIP)
 Solve the Sudoku (WIP)
