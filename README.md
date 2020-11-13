@@ -20,6 +20,6 @@ Reverse words in a given string (WIP)
 Parenthesis Checker
 
 ### Backtracking
-Permutations (WIP)
-Permutations_II (WIP)
-Solve the Sudoku (WIP)
+##### Permutations WIP
+##### Permutations_II WIP
+##### Solve the Sudoku
