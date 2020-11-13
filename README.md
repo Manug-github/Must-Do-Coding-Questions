@@ -17,7 +17,7 @@ Count the triplets
 Reverse words in a given string (WIP)
 
 ### Stack-and-Queue
-Parenthesis Checker (WIP)
+Parenthesis Checker
 
 ### Backtracking
 Solve the Sudoku (WIP)
