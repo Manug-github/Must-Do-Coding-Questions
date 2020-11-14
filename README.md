@@ -23,3 +23,4 @@ Parenthesis Checker
 ##### Permutations WIP
 ##### Permutations_II WIP
 ##### Solve the Sudoku
+##### N Queens
