@@ -7,6 +7,7 @@
 * [String](#String)
 * [Stack-and-Queue](#Stack-and-Queue)
 * [Backtracking](#Backtracking)
+* [Others](#Others)
 
 
 ### Arrays
@@ -24,3 +25,6 @@ Parenthesis Checker
 ##### Permutations_II WIP
 ##### Solve the Sudoku
 ##### N Queens
+
+### Others
+Next Closest Time
